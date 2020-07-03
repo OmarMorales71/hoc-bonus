@@ -6,6 +6,8 @@ import Public from './Pages/Public';
 import Private from './Pages/Private';
 
 function App() {
+
+  
   return (
     <Router> 
     <TopBar />
